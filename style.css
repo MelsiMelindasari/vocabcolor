@@ -1,0 +1,20 @@
+li[value="1"]{
+    color: red;
+}
+
+.note{
+    font-weight: normal;
+}
+
+#id-selector-demo{
+    color: blue;
+}
+
+li[value="4"]{
+    color: yellow;
+}
+
+li[value="5"]{
+    color: green;
+}
+
